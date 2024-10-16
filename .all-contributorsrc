@@ -15,7 +15,8 @@
       "profile": "https://temporalhq.com",
       "contributions": [
         "maintenance",
-        "code"
+        "code",
+        "infra"
       ]
     }
   ]
