@@ -4,9 +4,13 @@
   "files": [
     "README.md"
   ],
-  "commitType": "docs",
-  "commitConvention": "angular",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "commit": false,
   "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
+  "linkToUsage": true,
+  "skipCi": true,
   "contributors": [
     {
       "login": "Skogrine",
